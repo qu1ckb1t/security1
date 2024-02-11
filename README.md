@@ -39,6 +39,7 @@ PORT     STATE SERVICE     VERSION
 
   2. MySQL 5.0.x - IF Query Handling Remote Denial of Service MySQL 5.0.x - IF Query Handling Remote Denial of Service 
      https://www.exploit-db.com/exploits/30020
+
   3. PostgreSQL 8.3.6 - Conversion Encoding Remote Denial of Service 
      https://www.exploit-db.com/exploits/32849
 
