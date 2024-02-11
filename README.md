@@ -4,8 +4,8 @@
 
 ### Задание 1
 
-1. `Разрешенные сетевые службы на хосте с metasploitable:
-
+1. `Разрешенные сетевые службы на хосте с metasploitable:`
+```
 PORT     STATE SERVICE     VERSION
 21/tcp   open  ftp         vsftpd 2.3.4
 22/tcp   open  ssh         OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)
@@ -30,33 +30,14 @@ PORT     STATE SERVICE     VERSION
 6667/tcp open  irc         UnrealIRCd
 8009/tcp open  ajp13       Apache Jserv (Protocol v1.3)
 8180/tcp open  http        Apache Tomcat/Coyote JSP engine 1.1
+```
 
-`
-
-2. `Обнаруженные уязвимости:
-
+2. `Обнаруженные уязвимости:`
+```
   1. vsftpd 2.3.4 - Backdoor Command Execution https://www.exploit-db.com/exploits/49757
-  2. MySQL 5.0.x - IF Query Handling Remote Denial of Service MySQL 5.0.x - IF Query Handling Remote Denial of Service https://www.exploit-db.com/exploits/30020 
+  2. MySQL 5.0.x - IF Query Handling Remote Denial of Service MySQL 5.0.x - IF Query Handling Remote Denial of Service https://www.exploit-db.com/exploits/30020
   3. PostgreSQL 8.3.6 - Conversion Encoding Remote Denial of Service https://www.exploit-db.com/exploits/32849
-
-`
-
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
 ```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
-
 
 ---
 
